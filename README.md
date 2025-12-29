@@ -2,7 +2,7 @@
 
 **Trying to make plastic look good since 2023.**
 
-I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever else catches my eye. When I'm not posing tiny plastic humans, I'm probably breaking something with code.
+I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever else catches my eye. When I'm not posing figures, I'm probably breaking something with code.
 
 ### What I'm Into
 
