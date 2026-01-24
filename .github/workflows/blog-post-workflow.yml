@@ -17,7 +17,7 @@ jobs:
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@misterfunable"
+          feed_list: "https://medium.com/feed/@funable"
           max_post_count: 5
           committer_username: "misterfunable"
           committer_email: "action@github.com"
