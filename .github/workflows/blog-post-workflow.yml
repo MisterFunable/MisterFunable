@@ -25,4 +25,3 @@ jobs:
           committer_username: "misterfunable"
           committer_email: "action@github.com"
           commit_message: "Updated with latest Medium articles"
-          template: "- [$title]($url) - $newline > $description"
