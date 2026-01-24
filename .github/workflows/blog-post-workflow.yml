@@ -1,0 +1,25 @@
+name: Latest Medium Articles
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@misterfunable"
+          max_post_count: 5
+          committer_username: "misterfunable"
+          committer_email: "action@github.com"
+          commit_message: "Updated with latest Medium articles"
+          template: "- [$title]($url) - $newline > $description"
