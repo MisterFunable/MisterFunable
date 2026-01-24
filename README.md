@@ -1,22 +1,38 @@
-![Banner](https://i.imgur.com/nm3f0nC.png)
+![Undefined-Chan AI Mascot](https://i.imgur.com/nm3f0nC.png)
 
-# Hey 👋
+# Holi!
 
-**Capturing plastic in pixels, automating everything else.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=misterfunable&color=blueviolet&style=flat-square)
+Capturing plastic in pixels, automating everything else.
 
 I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever else catches my eye. When I'm not posing figures, I'm probably breaking something with code.
 
 ### What I'm Into
 
-- 📸 **Figure photography & unboxing videos** - Creating content around collectible figures and sharing the unboxing experience
-- 🤖 **Side projects & tech experiments** - Building automation workflows, IoT projects, and whatever random idea seems fun. I share my projects and repost interesting tech finds
-- ✍️ **Writing on Medium** - Deep dives into workflow automation with n8n, mesh networking with Meshtastic, and other technical adventures. I write tutorials, guides, and documentation for tools I use and love
+- Figure photography & unboxing videos
+- Side projects, automation workflows, and IoT tinkering
+- Writing tutorials and guides on Medium about n8n, Meshtastic, and tech projects
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Latest Medium Articles
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+*Want to see more? Check out my [Medium profile](https://medium.com/@funable)*
+
+---
+
+### Currently Working On
+
+- New figure unboxing series
+- Automating my home IoT setup with n8n
+- Writing guides on workflow automation
+- Exploring mesh networking possibilities
+
+---
+
+### Tech Stack & Tools
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Meshtastic](https://img.shields.io/badge/Meshtastic-00979D?style=for-the-badge&logo=mesh&logoColor=white)
@@ -29,34 +45,7 @@ I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misterfunable&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misterfunable&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</p>
-
----
-
-### ✍️ Latest Medium Articles
-
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-
-*Want to see more? Check out my [Medium profile](https://medium.com/@misterfunable)*
-
----
-
-### 🎯 Currently Working On
-
-- 📦 New figure unboxing series
-- 🔧 Automating my home IoT setup with n8n
-- 📝 Writing guides on workflow automation
-- 🌐 Exploring mesh networking possibilities
-
----
-
-### 🌐 Find Me
+### Find Me
 
 <p align="center">
   <a href="https://linktr.ee/misterfunable">
@@ -68,7 +57,7 @@ I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever
   <a href="https://instagram.com/mister.funable">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@misterfunable">
+  <a href="https://medium.com/@funable">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
   <a href="https://x.com/misterfunable">
@@ -78,7 +67,7 @@ I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever
 
 ---
 
-### 💖 Support My Work
+### Support My Work
 
 <p align="center">
   <a href="https://ko-fi.com/C0C211YA62">
@@ -87,5 +76,5 @@ I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever
 </p>
 
 <p align="center">
-  <i>If you enjoy my content, consider buying me a coffee! It helps me keep creating.</i>
+  <i>If you enjoy/hate my content, consider buying me a coffee! It helps me keep creating.</i>
 </p>
