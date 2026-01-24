@@ -16,7 +16,7 @@ I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever
 
 ### Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START --
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 *Want to see more? Check out my [Medium profile](https://medium.com/@funable)*
