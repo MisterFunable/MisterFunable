@@ -1,4 +1,4 @@
-![Undefined-Chan AI Mascot](https://i.imgur.com/nm3f0nC.png)
+![Undefined-Chan AI Mascot](https://i.imgur.com/oG6VGdy.png)
 
 # Holi!
 
