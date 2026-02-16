@@ -17,11 +17,11 @@ I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever
 ### Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Backing Up My Medium Posts](https://funable.medium.com/backing-up-my-medium-posts-4fa884d9c138?source=rss-918ca181d4dd------2)
 - [Claude Code &lpar;Part 1&rpar;: Do You Actually Need This If You Have Cursor?](https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4?source=rss-918ca181d4dd------2)
 - [Side Notes #1: What Yu-Gi-Oh Taught Me About Leadership](https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-about-leadership-cd13634fbde7?source=rss-918ca181d4dd------2)
 - [Uploading Instagram Videos to YouTube with n8n](https://funable.medium.com/uploading-instagram-videos-to-youtube-with-n8n-6df5ad3c2523?source=rss-918ca181d4dd------2)
 - [Why Your AI Images Look Worse After Each Iteration](https://funable.medium.com/why-your-ai-images-look-worse-after-each-iteration-b66abc24fced?source=rss-918ca181d4dd------2)
-- [Part 3— Designing a Mascot/Logo: A Fresh Start](https://funable.medium.com/part-3-designing-a-mascot-logo-a-fresh-start-45f17906c0d2?source=rss-918ca181d4dd------2)
 <!-- BLOG-POST-LIST:END -->
 
 *Want to see more? Check out my [Medium profile](https://medium.com/@funable)*
