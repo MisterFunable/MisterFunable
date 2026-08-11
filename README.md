@@ -17,11 +17,11 @@ I photograph and film figures: Figma, Freeing B-Style, Metal Build, and whatever
 ### Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Sekilist: An Index for Adult Dolls](https://funable.medium.com/sekilist-an-index-for-adult-dolls-15ee45261566?source=rss-918ca181d4dd------2)
 - [Is It Worth Buying a $4,000–8,000 Machine to Run AI Locally?](https://funable.medium.com/is-it-worth-buying-a-4-000-8-000-machine-to-run-ai-locally-0ab68088a6e0?source=rss-918ca181d4dd------2)
 - [N8N Instagram Backups with Metadata to Google Drive](https://funable.medium.com/n8n-instagram-backups-with-metadata-to-google-drive-f0167bf0af28?source=rss-918ca181d4dd------2)
 - [Substack as a Medium Alternative](https://funable.medium.com/substack-as-a-medium-alternative-96480741598e?source=rss-918ca181d4dd------2)
 - [Backing Up My Medium Posts](https://funable.medium.com/backing-up-my-medium-posts-4fa884d9c138?source=rss-918ca181d4dd------2)
-- [Claude Code &lpar;Part 1&rpar;: Do You Actually Need This If You Have Cursor?](https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4?source=rss-918ca181d4dd------2)
 <!-- BLOG-POST-LIST:END -->
 
 *Want to see more? Check out my [Medium profile](https://medium.com/@funable)*
